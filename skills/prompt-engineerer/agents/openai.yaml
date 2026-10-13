@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Engineerer"
+  short_description: "Transforma demandas em prompts claros e revisados"
+  default_prompt: "Use $prompt-engineerer para transformar minha demanda em um prompt pronto para outra IA."
